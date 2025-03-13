@@ -18,3 +18,7 @@
 comentario en python
 print ("web 3")
 ```
+---
+|nombre  | edad |
+|........|......|
+|caro    |21    |
