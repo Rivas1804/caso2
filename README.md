@@ -25,3 +25,6 @@ print ("web 3")
 |Pepe   |25    |
 
 >Prog Web 3
+
+- [x] tarea 1
+- [ ] Tarea 2
