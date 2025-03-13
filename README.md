@@ -2,6 +2,6 @@
 ## encabezado 2
 ### encabezado 3
 
-*texto cursiva*
-**texto negrita**
-***texto negrita y cursiva***
+-*texto cursiva*
+-**texto negrita**
+-***texto negrita y cursiva***
