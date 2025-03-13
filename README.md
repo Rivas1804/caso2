@@ -1,2 +1,3 @@
-# caso2
-caso2
+# encabezado 1
+## encabezado 2
+### encabezado 3
